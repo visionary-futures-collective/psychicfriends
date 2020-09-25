@@ -352,6 +352,7 @@ header::before {
       content: "";
       background-image: url('../img/header.jpg');
       background-size: cover;
+      background-color: $theme-dark;
       position: absolute;
       top: 0px;
       right: 0px;
