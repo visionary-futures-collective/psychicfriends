@@ -1,9 +1,9 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Academic Psychic Friends Network
+email: visionaryfuturescollective@gmail.com
+description: Imagining better futures for higher education.
+baseurl: /psychicfriends/
+url: https://visionary-futures-collective.github.io/
 
 twitter_username:
 github_username:
