@@ -235,12 +235,15 @@ GEM
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
     unicode-display_width (1.7.0)
+    webrick (1.7.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   github-pages
+  jekyll (~> 3.8)
+  webrick
 
 BUNDLED WITH
-   2.1.4
+   2.2.5
